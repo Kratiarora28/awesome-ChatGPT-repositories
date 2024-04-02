@@ -13,6 +13,7 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 
 ## The latest additions 🎉
+krati arora
 
 **Chatbots**
  * [Multi-Modality-Arena](https://github.com/opengvlab/multi-modality-arena) - Chatbot Arena meets multi-modality! Multi-Modality Arena allows you to benchmark vision-language models side-by-side while providing images as inputs. Supports MiniGPT-4, LLaMA-Adapter V2, LLaVA, BLIP-2, and many more!
